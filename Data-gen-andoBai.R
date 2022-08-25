@@ -8,7 +8,7 @@ p <- 8
 VAR <- 1
 
 N <- 100
-P <- 100  # T in my case
+P <- 3  # T in my case
 
 TAU <- 0.05
 
