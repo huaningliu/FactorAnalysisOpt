@@ -32,3 +32,5 @@ Mean-based Estimation Benchmark Code (in MATLAB): [Bai 2005 Suppliment code (out
 Quantile-based Estimation Method: [Ando & Bai 2018](https://par.nsf.gov/servlets/purl/10163503)
 
 Qunatile-based Estimation Benchmark Code (in R): [Ando & Bai 2018 Suppliment code](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2018.1543598)
+
+Readl data source: [Fama/French 5 factor regional data](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
