@@ -1,6 +1,6 @@
 # FactorAnalysisOpt
 
-## To Run the Replicated Simulation
+## To Run Replicated Simulation
 Mean-based method:
 - generate data: select all code in `Data-gen-andoBai.R` and run
 - benchmark: select all code in `Ando-Bai-Original.R` and run
